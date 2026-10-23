@@ -1,0 +1,18 @@
+{
+  "evidence": "Separate facts, inferences, and unknowns.",
+  "diagnose": "Reproduce failures and test root-cause hypotheses.",
+  "impact": "Trace callers, data contracts, and lifecycle risks.",
+  "design": "Choose simple designs with clear data ownership.",
+  "reliability": "Make retries converge and serialize shared writes.",
+  "review": "Triage review findings against real execution paths.",
+  "verify": "Exercise real journeys and distinguish harness drift.",
+  "measure": "Measure real work fairly and report uncertainty.",
+  "evaluate": "Compare anonymous outputs with fixed task criteria.",
+  "handoff": "Preserve verified state for safe pause and resume.",
+  "learn": "Turn repeated failures into small verified safeguards.",
+  "explain": "Explain technical work for the reader and purpose.",
+  "formal": "Check bounded invariants against actual code behavior.",
+  "work": "Plan and deliver scoped features and refactors.",
+  "compare": "Partition independent work and select by evidence.",
+  "git": "Check current heads and verify approved remote actions."
+}

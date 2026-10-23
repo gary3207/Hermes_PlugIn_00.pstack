@@ -1,0 +1,33 @@
+name: pstack
+version: 1.0.0
+description: Scope-preserving engineering guidance and adapted PStack skills.
+author: gary3207
+license: MIT
+homepage: https://github.com/gary3207/Hermes_PlugIn_pstack
+requires_hermes: ">=0.22.4"
+config_schema:
+  enabled:
+    type: bool
+    default: true
+    description: Enable automatic PStack guidance in this profile.
+provides_hooks:
+  - pre_llm_call
+provides_commands:
+  - pstack
+provides_skills:
+  - evidence
+  - diagnose
+  - impact
+  - design
+  - reliability
+  - review
+  - verify
+  - measure
+  - evaluate
+  - handoff
+  - learn
+  - explain
+  - formal
+  - work
+  - compare
+  - git

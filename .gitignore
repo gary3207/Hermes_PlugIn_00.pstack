@@ -1,0 +1,13 @@
+# Private review material and verification/runtime data are not published.
+PSTACK_선별도입_검토.md
+source/evidence/
+source/test-work/
+source/.graphify-cache/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
